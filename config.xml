@@ -1,21 +1,3 @@
-# PG Hybrid Boilerplate
-
-Tabs (multiple views) Framework7 starter app template.
-
-## Setup
-
-1. Using ```git``` to download and serve boilerplate
-
-```console
-git clone https://github.com/clydeatuic/pgTabs my-app &&
-cd my-app &&
-npm install &&
-npm run serve
-```
-
-2. Create a config.xml file
-
-```xml
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="uic.edu.ph" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>UIC PG Demo Tabs</name>
@@ -69,11 +51,3 @@ npm run serve
 
 
 </widget>
-
-```
-
-3. Go to Github and create a repo then upload your codes
-
-4. Go to PG Build and create a public app then link your repo (master branch)
-
-5. Open your QR Code Scanner (make sure to have an internet access) and install the app
